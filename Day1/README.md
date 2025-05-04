@@ -8,5 +8,5 @@
 - Started Burp Suite
 
 ### Screenshots
-![VM SetUp](setup.png)
-![Kali Desktop](terminal.png)
+![VM SetUp](SetUp.png)
+![Kali Desktop](Desktop.png)
