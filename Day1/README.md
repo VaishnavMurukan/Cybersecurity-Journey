@@ -9,4 +9,6 @@
 
 ### Screenshots
 ![VM SetUp](SetUp.png)
-![Kali Desktop](Desktop.png)
+![Kali ](Kali.png)
+![Desktop ](Desktop.jpg)
+![Terminal ](Terminal.jpg)
